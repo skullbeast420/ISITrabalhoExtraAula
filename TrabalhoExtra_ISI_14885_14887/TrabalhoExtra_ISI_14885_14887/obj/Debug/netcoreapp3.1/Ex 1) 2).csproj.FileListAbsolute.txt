@@ -1,0 +1,15 @@
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).exe
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).AssemblyInfoInputs.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).AssemblyInfo.cs
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).deps.json
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).runtimeconfig.json
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).runtimeconfig.dev.json
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).dll
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Ex 1) 2).pdb
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).csprojAssemblyReference.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).csproj.CoreCompileInputs.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).csproj.CopyComplete
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).dll
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).pdb
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\TrabalhoExtra_ISI_14885_14887\obj\Debug\netcoreapp3.1\Ex 1) 2).genruntimeconfig.cache

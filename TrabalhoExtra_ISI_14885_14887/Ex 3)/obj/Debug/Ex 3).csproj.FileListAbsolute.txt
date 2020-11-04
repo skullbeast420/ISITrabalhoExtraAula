@@ -1,0 +1,14 @@
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\bin\Debug\Ex 3).exe.config
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\bin\Debug\Ex 3).exe
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\bin\Debug\Ex 3).pdb
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).csprojAssemblyReference.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex_3_.Form1.resources
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex_3_.Previsao.resources
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex_3_.Properties.Resources.resources
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).csproj.GenerateResource.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).csproj.CoreCompileInputs.cache
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).csproj.CopyComplete
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).exe
+C:\Users\Bernas\Desktop\trabalho_ISI_final\TrabalhoExtra_ISI_14885_14887\Ex 3)\obj\Debug\Ex 3).pdb

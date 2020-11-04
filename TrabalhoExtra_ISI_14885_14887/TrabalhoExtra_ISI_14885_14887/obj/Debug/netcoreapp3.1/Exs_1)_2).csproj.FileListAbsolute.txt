@@ -1,0 +1,15 @@
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).exe
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).deps.json
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).runtimeconfig.json
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).runtimeconfig.dev.json
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).dll
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Exs_1)_2).pdb
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).csprojAssemblyReference.cache
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).AssemblyInfoInputs.cache
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).AssemblyInfo.cs
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).csproj.CoreCompileInputs.cache
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).csproj.CopyComplete
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).dll
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).pdb
+C:\Users\Bernas\Desktop\ISI_Trabalho\ISI_TrabalhoExtraAula_1\Ex_Parte1_14885\Ex_Parte1_14885\obj\Debug\netcoreapp3.1\Exs_1)_2).genruntimeconfig.cache
